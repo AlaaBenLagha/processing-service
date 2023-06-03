@@ -1,2 +1,2 @@
 # processing-service
-Demo Spring Cloud
+Demo Spring Cloud Patterns
